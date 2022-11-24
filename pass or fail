@@ -1,0 +1,13 @@
+#User Input
+
+Marks = Float(Input("Enter Marks:"))
+
+#If Condition 
+
+If(Marks>=50):
+
+  Print("Pass")
+
+Else:
+
+  Print("Fail")
